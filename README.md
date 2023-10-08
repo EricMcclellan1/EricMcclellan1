@@ -1,6 +1,6 @@
 <h1>Hi, I'm Eric! <br/><a href="https://github.com/joshmadakor1">Programmer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
 
-<h2>👨‍💻 Cybersecurity Projects:</h2>
+<h2>👨‍💻 My Projects:</h2>
 
 - <b> Azure/Cloud Projects </b>
   - [Creating A Live Soc/Honeynet In Azure](https://github.com/EricMcclellan1/Cloud-Soc/blob/main/README.md)

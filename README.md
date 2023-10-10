@@ -6,8 +6,13 @@
   - [Creating A Live Soc/Honeynet In Azure](https://github.com/EricMcclellan1/Cloud-Soc/blob/main/README.md)
   
 
-<h2>📺 Popular YouTube Videos</h2>
+<h2>📺 YouTube Videos</h2>
+ <b> 👔 Microsoft Internship </b> <br/>
 
+- [How I Got A Microsoft Internship](https://www.youtube.com/watch?v=PAjTJ02IkDY)
+- [My Microsoft Internship Results](https://www.youtube.com/watch?v=LWTZpaaHpyY)
+
+ <b> ⭐ Popular Vids </b> <br/>
 - [How To Install Kali Linux Using Virtualbox](https://www.youtube.com/watch?v=iqTm5TgO-Nw)
 - [How To Make Your Command Linke Look Cool!](https://www.youtube.com/watch?v=6sBl6YtUuGU)
 - [What Does The #1 Ethical Hacker In The World Carry?](https://www.youtube.com/watch?v=dcC1Oq-4rHw)
@@ -18,8 +23,8 @@
 
 <h2>🔎 Labs/Reconnaissance</h2>
 
-- [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
-- [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
+- [How I Got A Microsoft Internship](https://www.youtube.com/watch?v=PAjTJ02IkDY)
+- [My Microsoft Internship Results](https://www.youtube.com/watch?v=LWTZpaaHpyY)
 
 
 <h2> 🤳 Connect with me:</h2>

@@ -3,7 +3,7 @@
 <h2>👨‍💻 My Projects:</h2>
 
 - <b> Azure/Cloud Projects </b>
-  - [Creating A Live Soc/Honeynet In Azure](https://github.com/EricMcclellan1/Cloud-Soc/blob/main/README.md)
+  - [Creating A Live Soc/Honeynet In Azure](https://github.com/EricMcclellan1/Cloud-Soc)
   
 
 <h2>📺 YouTube Videos</h2>

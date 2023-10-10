@@ -1,4 +1,4 @@
-<h1>Hi, I'm Eric! <br/> <a href="https://www.linkedin.com/in/eric-mcclellan-jr/">Secure Infrastructure Specialist</a>, <a href="https://www.youtube.com/@cyber_hawks"> YouTuber</a></h1>
+<h1>Hi, I'm Eric! <br/> <a href="https://www.linkedin.com/in/eric-mcclellan-jr/">Secure Infrastructure Specialist</a>, <a href="https://www.youtube.com/@cyber_hawks"> CyberSecurity YouTuber</a></h1>
 
 <h2>👨‍💻 My Projects:</h2>
 

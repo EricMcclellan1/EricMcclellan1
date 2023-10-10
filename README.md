@@ -1,4 +1,4 @@
-<h1>Hi, I'm Eric! <br/> <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/@cyber_hawks"> YouTuber</a></h1>
+<h1>Hi, I'm Eric! <br/> <a href="https://www.linkedin.com/in/joshmadakor/">Secure Infrastructure Specialist</a>, <a href="https://www.youtube.com/@cyber_hawks"> YouTuber</a></h1>
 
 <h2>👨‍💻 My Projects:</h2>
 

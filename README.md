@@ -16,15 +16,15 @@
 - [How To Install Kali Linux Using Virtualbox](https://www.youtube.com/watch?v=iqTm5TgO-Nw)
 - [How To Make Your Command Linke Look Cool!](https://www.youtube.com/watch?v=6sBl6YtUuGU)
 - [What Does The #1 Ethical Hacker In The World Carry?](https://www.youtube.com/watch?v=dcC1Oq-4rHw)
-- <b> 🔎 Labs/Reconnaissance </b>
-  - [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
-  - [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
+
+ <b> 🔎 Labs/Reconnaissance </b> <br/>
 
 
-<h2>🔎 Labs/Reconnaissance</h2>
 
-- [How I Got A Microsoft Internship](https://www.youtube.com/watch?v=PAjTJ02IkDY)
-- [My Microsoft Internship Results](https://www.youtube.com/watch?v=LWTZpaaHpyY)
+- [How I Caught A Facebook Scammer OSINT 101](https://www.youtube.com/watch?v=FpCahM50hlM)
+- [HackThebox (Dancing) Walkthrough](https://www.youtube.com/watch?v=5hKuY3Yvfj0)
+- [Blue Team level 1 Investigation Lab](https://www.youtube.com/watch?v=3FwH033NJxg)
+
 
 
 <h2> 🤳 Connect with me:</h2>

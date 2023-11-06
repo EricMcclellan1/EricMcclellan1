@@ -4,7 +4,9 @@
 
 - <b> Azure/Cloud Projects </b>
   - [Creating A Live Soc/Honeynet In Azure](https://github.com/EricMcclellan1/Cloud-Soc)
-  
+  - [Securing SOC Environment To Be NIST SP 800-53 R5 Compliant](https://github.com/EricMcclellan1/NIST-Compliance/tree/main)
+ 
+
 
 <h2>📺 YouTube Videos</h2>
  <b> 👔 Microsoft Internship </b> <br/>

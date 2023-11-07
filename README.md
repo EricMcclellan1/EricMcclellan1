@@ -1,14 +1,19 @@
 <h1>Hi, I'm Eric! <br/> <a href="https://www.linkedin.com/in/eric-mcclellan-jr/">Secure Infrastructure Specialist</a>, <a href="https://www.youtube.com/@cyber_hawks"> CyberSecurity YouTuber</a></h1>
 
-<h2>👨‍💻 My Projects:</h2>
+<h2>👨‍💻 Cloud/CyberSecurity Projects:</h2>
 
-- <b> Azure/Cloud Projects </b>
-  - [Creating A Live Soc/Honeynet In Azure](https://github.com/EricMcclellan1/Cloud-Soc)
-  - [Securing SOC Environment To Be NIST SP 800-53 R5 Compliant](https://github.com/EricMcclellan1/NIST-Compliance/tree/main)
+- <b> Creating A Live Soc + Honeynet In Azure </b>
+  - [Implementing a SOC & Honeynet](https://github.com/EricMcclellan1/Cloud-Soc) <i><b>(Live Traffic)</b></i>
+    
+- <b> Securing SOC Environemnt To Be NIST SP 800-53 R5 Compliant </b>
+  - [Applying updated Standard & Compliance governance framework to cloud environment](https://github.com/EricMcclellan1/NIST-Compliance/tree/main)
  
+
+<h2>🤖 Python Projects:</h2>
 
 
 <h2>📺 YouTube Videos</h2>
+
  <b> 👔 Microsoft Internship </b> <br/>
 
 - [How I Got A Microsoft Internship](https://www.youtube.com/watch?v=PAjTJ02IkDY)

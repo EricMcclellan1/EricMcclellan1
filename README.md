@@ -11,11 +11,11 @@
 
 <h2>🤖 Coding (Python) Projects:</h2>
 
-- [Classic Snake Game](https://github.com/EricMcclellan1/NIST-Compliance/tree/main) <b><i>Using A.I</b></i>
-- [Random Password Generator](https://github.com/EricMcclellan1/NIST-Compliance/tree/main) <i><b>Test out on your old passwords!</i></b>
-- ["007" Spy Adventure Game](https://github.com/EricMcclellan1/NIST-Compliance/tree/main) <b><i>Text-based game</i></b>
-- [Tip Calculator](https://github.com/EricMcclellan1/NIST-Compliance/tree/main)
-- [Rock, Paper, Scissors Game](https://github.com/EricMcclellan1/NIST-Compliance/tree/main)
+- [Classic Snake Game](https://github.com/EricMcclellan1/Snake-game) <b><i>Using A.I</b></i>
+- [Random Password Generator](https://github.com/EricMcclellan1/password-generator) <i><b>Test out on your old passwords!</i></b>
+- ["007" Spy Adventure Game](https://github.com/EricMcclellan1/spy-game) <b><i>Text-based game</i></b>
+- [Tip Calculator](https://github.com/EricMcclellan1/Tip-Calculator)
+- [Rock, Paper, Scissors Game](https://github.com/EricMcclellan1/rock-paper-scissors)
 
 
 

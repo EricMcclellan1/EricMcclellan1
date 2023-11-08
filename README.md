@@ -5,7 +5,7 @@
 - <b> Creating A Live Soc + Honeynet In Azure </b>
   - [Implementing a SOC & Honeynet](https://github.com/EricMcclellan1/Cloud-Soc) <i><b>(Live Traffic)</b></i>
     
-- <b> Securing SOC Environemnt To Be NIST SP 800-53 R5 Compliant </b>
+- <b> Securing SOC Environment To Be NIST SP 800-53 R5 Compliant </b>
   - [Applying updated Standard & Compliance governance framework to cloud environment](https://github.com/EricMcclellan1/NIST-Compliance/tree/main)
  
 

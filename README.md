@@ -9,7 +9,7 @@
   - [Applying updated Standard & Compliance governance framework to cloud environment](https://github.com/EricMcclellan1/NIST-Compliance/tree/main)
 
 - <b> Vulnerability Management with Nessus On Sanbox Network </b>
-  - [Performing Vulnerability Management on a Sandbox environment created with Azure cloud VM](https://github.com/EricMcclellan1/nessus-vulnerability/blob/main/README.md)
+  - [Performing Vulnerability Management on a Sandbox environment created with Azure cloud Virtual Machine](https://github.com/EricMcclellan1/nessus-vulnerability/blob/main/README.md)
  
 
 <h2>🤖 Coding (Python) Projects:</h2>

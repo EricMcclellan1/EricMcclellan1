@@ -11,6 +11,8 @@
 - <b> Vulnerability Management with Nessus On Sanbox Network </b>
   - [Performing Vulnerability Management on a Sandbox environment created with Azure cloud Virtual Machine](https://github.com/EricMcclellan1/nessus-vulnerability/blob/main/README.md)
  
+- <b> Active Directory Simulation Using Oracle VirtualBox </b>
+  - [Setting up a Home Lab Running Active Directory and creating 1000 users with powershell](https://github.com/EricMcclellan1/AD-Lab)
 
 <h2>🤖 Coding (Python) Projects:</h2>
 

@@ -2,8 +2,13 @@
 
 <h2>👨‍💻 Cloud/CyberSecurity Projects:</h2>
 
+ <b> 🟣 PURPLE TEAM 🟣 </b> <br/>
+
 - <b> Creating A Live Soc + Honeynet In Azure </b>
-  - [Implementing a SOC & Honeynet](https://github.com/EricMcclellan1/Cloud-Soc) <i><b>(Live Traffic)</b></i>
+  - [Implementing a SOC & Honeynet; Attacking and remediating it](https://github.com/EricMcclellan1/Cloud-Soc) <i><b>(Live Traffic)</b></i>
+
+<b> 🔵 BLUE TEAM 🔵 </b> <br/>
+
     
 - <b> Securing SOC Environment To Be NIST SP 800-53 R5 Compliant </b>
   - [Applying updated Standard & Compliance governance framework to cloud environment](https://github.com/EricMcclellan1/NIST-Compliance/tree/main)
@@ -13,6 +18,14 @@
  
 - <b> Active Directory Simulation Using Oracle VirtualBox </b>
   - [Setting up a Home Lab Running Active Directory and creating 1000 users with powershell](https://github.com/EricMcclellan1/AD-Lab)
+
+
+ <b> 🔴 RED TEAM 🔴 </b> <br/>
+
+
+- <b> Ransomware Attack On Machine </b>
+  - [Setting up a mock student desktop environment and attacking it with Malware](https://github.com/EricMcclellan1/ransomware-attack)
+
 
 <h2>🤖 Coding (Python) Projects:</h2>
 

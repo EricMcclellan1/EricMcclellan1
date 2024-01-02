@@ -25,6 +25,9 @@
 
 - <b> Ransomware Attack On Machine </b>
   - [Setting up a mock student desktop environment and attacking it with Malware](https://github.com/EricMcclellan1/ransomware-attack)
+ 
+- <b> Creating Stealth Keylogger To Attack "Family" PC </b>
+  - [Creating a mock family home PC & steathly applying a keylogger to get info from everyone](https://github.com/EricMcclellan1/ransomware-attack)
 
 
 <h2>🤖 Coding (Python) Projects:</h2>
